@@ -21,3 +21,6 @@ CONTACT US:  Here i added address of the temple, details of temple and added loc
 ![2](https://user-images.githubusercontent.com/72555080/193785662-1894342d-158c-4abc-849c-f1c5c87a6547.jpg)
 ![3](https://user-images.githubusercontent.com/72555080/193785670-81316eb3-29a8-44fa-adc6-f346e8e5fb79.jpg)
 ![3 1](https://user-images.githubusercontent.com/72555080/193786204-ca2508f5-70d6-4ea6-b706-8c599964ca39.jpg)
+![5](https://user-images.githubusercontent.com/72555080/193786752-706cb6af-1fca-4e6d-9a2e-1bde5c786eb2.jpg)
+![5 1](https://user-images.githubusercontent.com/72555080/193786766-fd0efd65-4573-47f4-ac3d-539557eceed4.jpg)
+![5 2](https://user-images.githubusercontent.com/72555080/193786772-c02f750e-3542-42e6-a6dd-fa1f7efacb3e.jpg)
