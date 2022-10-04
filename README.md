@@ -8,6 +8,8 @@ In this digital world of internet, website becomes a source of information. This
 This is the website of Sri Sankara Narayana Temple (ಶ್ರೀ ಶಂಕರನಾರಾಯಣ ದೇವಸ್ಥಾನ) which is located in Koliyoor, Manjeshwar, Kasaragod District. Kerala.  
 Experts believe that the temple has a history of fifteen centuries due to its architecture and methods of worship.
 
+![OM](https://user-images.githubusercontent.com/72555080/193788513-cee4ee1d-3936-4f76-b9aa-4f4301dfa9ff.png)
+
 IN  this website I added  4 navigation bars like, HOME ( ಶ್ರೀ ಶಂಕರನಾರಾಯಣ ದೇವಸ್ಥಾನ)  ದರ್ಶನ ಸಮಯಗಳು , ಸೇವಾ ವಿವರಗಳು , CONTACT US.
 
 HOME ( ಶ್ರೀ ಶಂಕರನಾರಾಯಣ ದೇವಸ್ಥಾನ): In the home page i added images of the temple, information of the temple and history of the temple.
