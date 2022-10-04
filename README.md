@@ -17,4 +17,5 @@ HOME ( ಶ್ರೀ ಶಂಕರನಾರಾಯಣ ದೇವಸ್ಥಾನ): In
 
 CONTACT US:  Here i added address of the temple, details of temple and added location map of temple 
 
-  
+  ![1](https://user-images.githubusercontent.com/72555080/193785648-9e83fde0-a0a3-4c7c-a034-eba6fce4ca05.jpg)
+![2](https://user-images.githubusercontent.com/72555080/193785662-1894342d-158c-4abc-849c-f1c5c87a6547.jpg)
